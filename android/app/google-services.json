@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685135711589",
+    "project_id": "bloom-300310",
+    "storage_bucket": "bloom-300310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685135711589:android:7a62106b076a370bbb658c",
+        "android_client_info": {
+          "package_name": "com.example.bloom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685135711589-b3q1avt39bqb8lrhstiv73ugmcuj14h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI7xTVk1lWeSbn8iXImIq8C_KMW6sNFH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685135711589-b3q1avt39bqb8lrhstiv73ugmcuj14h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
