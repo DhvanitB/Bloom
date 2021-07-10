@@ -1,6 +1,6 @@
 # Bloom
 
-A Flutter Healthcare Application to check availability in Hospitals.
+A demo Flutter Healthcare Application to check availability in local Hospitals.
 
 ## Getting Started
 
