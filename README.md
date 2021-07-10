@@ -1,6 +1,6 @@
-# bloom
+# Bloom
 
-A Flutter Healthcare Application.
+A Flutter Healthcare Application to check availability in Hospitals.
 
 ## Getting Started
 
